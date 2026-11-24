@@ -1,6 +1,6 @@
 /* Service worker của bản web Kê khai TSTN. Chỉ đọc/ghi bộ nhớ đệm của chính trang này; không gọi mạng nào khác, không phân tích, không theo dõi. */
 'use strict';
-var BO_NHO = 'kktn-web-758bb60fa24650f2';
+var BO_NHO = 'kktn-web-ddd9130b30f5ccb1';
 var TAI_NGUYEN = ["./","index.html","manifest.webmanifest","icon-192.png","icon-512.png","icon-512-maskable.png","apple-touch-icon.png"];
 
 self.addEventListener('install', function (e) {
