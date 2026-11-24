@@ -1,0 +1,20 @@
+{
+  "name": "Kê khai tài sản, thu nhập – Kê khai TSTN",
+  "short_name": "Kê khai TSTN",
+  "description": "Phần mềm hỗ trợ kê khai tài sản, thu nhập theo Nghị định 164/2026, chạy hoàn toàn trên máy, không cần mạng.",
+  "lang": "vi",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2f5f9",
+  "theme_color": "#0b5cad",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
